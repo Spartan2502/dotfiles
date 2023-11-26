@@ -1,0 +1,13 @@
+2023-11-26T22:46:34.927Z 0: 
+
+----------------------------------------------
+2023-11-26T22:46:34.943Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.35"}, modulepath: /home/spartan/.config/discord/0.0.35/modules
+2023-11-26T22:46:34.952Z 2: ✅ webContents.created web1 ""
+2023-11-26T22:46:34.969Z 3: ✅ window.created win1 "discord"
+2023-11-26T22:46:35.258Z 4: ✅ webContents.did-finish-load web1
+2023-11-26T22:46:39.187Z 5: ✅ webContents.created web2 ""
+2023-11-26T22:46:39.194Z 6: ✅ window.created win2 "Discord"
+2023-11-26T22:46:42.502Z 7: ✅ webContents.did-finish-load web2
+2023-11-26T22:46:42.601Z 8: window.close win1
+2023-11-26T22:46:42.622Z 9: webContents.destroyed web1
+2023-11-26T22:46:42.623Z 10: window.closed win1

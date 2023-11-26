@@ -1,0 +1,5 @@
+2023/11/26-16:46:34.802 d35 Reusing MANIFEST /home/spartan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/11/26-16:46:34.802 d35 Recovering log #3
+2023/11/26-16:46:34.818 d35 Level-0 table #3: started
+2023/11/26-16:46:34.851 d35 Level-0 table #3: 4124190 bytes OK
+2023/11/26-16:46:34.856 d35 Delete type=0 #3
