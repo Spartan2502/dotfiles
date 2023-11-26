@@ -1,0 +1,10 @@
+
+
+
+;; Bluetooth widget
+(defwidget recorder_menu []
+  (box :orientation "h" :class "bluetooth-widget"
+       (label :text "Bluetooth:" :class "bluetooth-label")
+       (button :class "bluetooth-toggle" :onclick "scripts/toggle_bluetooth.sh" "󰤬")
+  )
+)

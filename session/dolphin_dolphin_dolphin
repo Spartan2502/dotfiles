@@ -1,0 +1,10 @@
+[1]
+Active Tab Index=0
+Tab Count=2
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x1cfile:///home/spartan/.config\x00\x00\x00\x00\x01\x00\x00\x00%file:///home/spartan/.config/cliphist\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00\x1cfile:///home/spartan/.config\x00\x00\x00\x00\x01\x00\x00\x00%file:///home/spartan/.config/cliphist\x00\x00\x00\x1a\x00\x00\x00%file:///home/spartan/.config/cliphist\x00\x00\x00+file:///home/spartan/.config/Code%20-%20OSS\x00\x00\x00"file:///home/spartan/.config/dconf\x00\x00\x00$file:///home/spartan/.config/discord\x00\x00\x00"file:///home/spartan/.config/dunst\x00\x00\x00$file:///home/spartan/.config/gtk-3.0\x00\x00\x00!file:///home/spartan/.config/htop\x00\x00\x00!file:///home/spartan/.config/hypr\x00\x00\x00$file:///home/spartan/.config/kde.org\x00\x00\x00"file:///home/spartan/.config/kitty\x00\x00\x00%file:///home/spartan/.config/neofetch\x00\x00\x00"file:///home/spartan/.config/pulse\x00\x00\x00"file:///home/spartan/.config/qt5ct\x00\x00\x00!file:///home/spartan/.config/rofi\x00\x00\x00$file:///home/spartan/.config/session\x00\x00\x00#file:///home/spartan/.config/swappy\x00\x00\x00%file:///home/spartan/.config/swaylock\x00\x00\x00$file:///home/spartan/.config/systemd\x00\x00\x00 file:///home/spartan/.config/vlc\x00\x00\x00%file:///home/spartan/.config/waypaper\x00\x00\x00$file:///home/spartan/.config/wlogout\x00\x00\x00 file:///home/spartan/.config/yay\x00\x00\x003file:///home/spartan/.config/baloofileinformationrc\x00\x00\x00&file:///home/spartan/.config/dolphinrc\x00\x00\x00,file:///home/spartan/.config/pavucontrol.ini\x00\x00\x00$file:///home/spartan/.config/trashrc\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1

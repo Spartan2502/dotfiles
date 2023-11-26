@@ -1,0 +1,19 @@
+2023-11-23 20:03:17.000 [info] Log level: Info
+2023-11-23 20:03:17.000 [info] Validating found git in: "git"
+2023-11-23 20:03:17.000 [info] Using git "2.43.0" from "git"
+2023-11-23 20:03:17.000 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-23 20:03:17.000 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-11-23 20:03:17.000 [info] Open repository: /home/spartan/pruebas/dotfiles
+2023-11-23 20:03:17.001 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-23 20:03:17.001 [info] > git config --get commit.template [7ms]
+2023-11-23 20:03:17.014 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-23 20:03:17.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2023-11-23 20:03:17.030 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-23 20:03:17.037 [info] > git status -z -uall [12ms]
+2023-11-23 20:03:17.051 [info] > git config --get commit.template [1ms]
+2023-11-23 20:03:17.057 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-23 20:03:17.071 [info] > git status -z -uall [9ms]
+2023-11-23 20:03:17.322 [info] > git show --textconv :.config/eww/modules/powermenu.yuck [6ms]
+2023-11-23 20:03:17.323 [info] > git ls-files --stage -- /home/spartan/pruebas/dotfiles/.config/eww/modules/powermenu.yuck [2ms]
+2023-11-23 20:03:17.328 [info] > git cat-file -s e0604000fe52b173c592492092c3c49fddb2c2c0 [0ms]
+2023-11-23 20:03:17.510 [info] > git check-ignore -v -z --stdin [1ms]

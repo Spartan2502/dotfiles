@@ -1,0 +1,3 @@
+# Configuración de cliphist
+history_size = 100
+exclude = ["contraseña", "token", "apikey"]

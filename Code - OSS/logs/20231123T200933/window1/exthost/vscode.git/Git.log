@@ -1,0 +1,23 @@
+2023-11-23 20:09:35.657 [info] Log level: Info
+2023-11-23 20:09:35.657 [info] Validating found git in: "git"
+2023-11-23 20:09:35.683 [info] Using git "2.43.0" from "git"
+2023-11-23 20:09:35.700 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-23 20:09:35.707 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-23 20:09:35.720 [info] Open repository: /home/spartan/pruebas/dotfiles
+2023-11-23 20:09:35.738 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-23 20:09:35.739 [info] > git config --get commit.template [9ms]
+2023-11-23 20:09:35.780 [info] > git rev-parse --show-toplevel [12ms]
+2023-11-23 20:09:35.787 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-23 20:09:35.788 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-11-23 20:09:35.826 [info] > git status -z -uall [33ms]
+2023-11-23 20:09:35.842 [info] > git config --get commit.template [1ms]
+2023-11-23 20:09:35.848 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-23 20:09:35.888 [info] > git status -z -uall [35ms]
+2023-11-23 20:09:36.205 [info] > git show --textconv :.config/eww/modules/powermenu.yuck [6ms]
+2023-11-23 20:09:36.206 [info] > git ls-files --stage -- /home/spartan/pruebas/dotfiles/.config/eww/modules/powermenu.yuck [1ms]
+2023-11-23 20:09:36.211 [info] > git cat-file -s e0604000fe52b173c592492092c3c49fddb2c2c0 [1ms]
+2023-11-23 20:09:36.278 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-23 20:09:59.897 [info] > git show --textconv :.config/hypr/hyprland.conf [5ms]
+2023-11-23 20:09:59.897 [info] > git ls-files --stage -- /home/spartan/pruebas/dotfiles/.config/hypr/hyprland.conf [1ms]
+2023-11-23 20:09:59.903 [info] > git cat-file -s 785ebad4459bc90dbed53ba660e4f07c82ad9b09 [1ms]
+2023-11-23 20:10:00.219 [info] > git check-ignore -v -z --stdin [1ms]

@@ -1,0 +1,540 @@
+2023-11-06T06:31:38.336Z [Modules] Modules initializing
+2023-11-06T06:31:38.337Z [Modules] Distribution: remote
+2023-11-06T06:31:38.337Z [Modules] Host updates: enabled
+2023-11-06T06:31:38.337Z [Modules] Module updates: enabled
+2023-11-06T06:31:38.337Z [Modules] Module install path: /home/spartan/.config/discord/0.0.33/modules
+2023-11-06T06:31:38.337Z [Modules] Module installed file path: /home/spartan/.config/discord/0.0.33/modules/installed.json
+2023-11-06T06:31:38.337Z [Modules] Module download path: /home/spartan/.config/discord/0.0.33/modules/pending
+2023-11-06T06:31:38.450Z [Modules] Bootstrapping...
+2023-11-06T06:31:38.450Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-11-06T06:31:38.452Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-11-06T06:31:38.453Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-11-06T06:31:38.454Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-11-06T06:31:38.454Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-11-06T06:31:38.454Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-11-06T06:31:38.455Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-11-06T06:31:38.455Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-11-06T06:31:38.456Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-11-06T06:31:38.456Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-11-06T06:31:38.456Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-11-06T06:31:38.457Z [Modules] Checking for host updates.
+2023-11-06T06:31:38.730Z [Modules] Host is up to date.
+2023-11-06T06:31:38.731Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-06T06:31:38.868Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-11-06T06:31:38.868Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-11-06T06:31:38.868Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-11-06T06:31:38.868Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-11-06T06:31:38.868Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-11-06T06:31:38.869Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-11-06T06:31:38.869Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip
+2023-11-06T06:31:39.325Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 1%
+2023-11-06T06:31:39.357Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 2%
+2023-11-06T06:31:39.393Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 3%
+2023-11-06T06:31:39.416Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 4%
+2023-11-06T06:31:39.434Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 5%
+2023-11-06T06:31:39.446Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 6%
+2023-11-06T06:31:39.456Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 7%
+2023-11-06T06:31:39.468Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 8%
+2023-11-06T06:31:39.477Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 9%
+2023-11-06T06:31:39.490Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 10%
+2023-11-06T06:31:39.495Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 11%
+2023-11-06T06:31:39.505Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 12%
+2023-11-06T06:31:39.510Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 13%
+2023-11-06T06:31:39.514Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 14%
+2023-11-06T06:31:39.522Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 15%
+2023-11-06T06:31:39.526Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 16%
+2023-11-06T06:31:39.529Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 17%
+2023-11-06T06:31:39.536Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 18%
+2023-11-06T06:31:39.539Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 19%
+2023-11-06T06:31:39.542Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 20%
+2023-11-06T06:31:39.548Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 21%
+2023-11-06T06:31:39.550Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 22%
+2023-11-06T06:31:39.556Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 23%
+2023-11-06T06:31:39.558Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 24%
+2023-11-06T06:31:39.561Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 25%
+2023-11-06T06:31:39.569Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 28%
+2023-11-06T06:31:39.576Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 30%
+2023-11-06T06:31:39.582Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 33%
+2023-11-06T06:31:39.589Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 36%
+2023-11-06T06:31:39.596Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 39%
+2023-11-06T06:31:39.601Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 42%
+2023-11-06T06:31:39.606Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 45%
+2023-11-06T06:31:39.612Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 48%
+2023-11-06T06:31:39.616Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 49%
+2023-11-06T06:31:39.618Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 51%
+2023-11-06T06:31:39.624Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 54%
+2023-11-06T06:31:39.628Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 57%
+2023-11-06T06:31:39.632Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 60%
+2023-11-06T06:31:39.636Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 63%
+2023-11-06T06:31:39.639Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 66%
+2023-11-06T06:31:39.643Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 69%
+2023-11-06T06:31:39.647Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 72%
+2023-11-06T06:31:39.647Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 73%
+2023-11-06T06:31:39.651Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 76%
+2023-11-06T06:31:39.654Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 79%
+2023-11-06T06:31:39.656Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 82%
+2023-11-06T06:31:39.659Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 85%
+2023-11-06T06:31:39.662Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 88%
+2023-11-06T06:31:39.664Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 91%
+2023-11-06T06:31:39.667Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 94%
+2023-11-06T06:31:39.668Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 95%
+2023-11-06T06:31:39.669Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 96%
+2023-11-06T06:31:39.671Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 97%
+2023-11-06T06:31:39.672Z [Modules] Streaming discord_desktop_core@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip: 100%
+2023-11-06T06:31:39.673Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-11-06T06:31:39.673Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip
+2023-11-06T06:31:39.861Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 3%
+2023-11-06T06:31:39.862Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 6%
+2023-11-06T06:31:39.862Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 10%
+2023-11-06T06:31:39.864Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 13%
+2023-11-06T06:31:39.865Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 17%
+2023-11-06T06:31:39.867Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 20%
+2023-11-06T06:31:39.868Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 23%
+2023-11-06T06:31:39.869Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 27%
+2023-11-06T06:31:39.870Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 30%
+2023-11-06T06:31:39.871Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 34%
+2023-11-06T06:31:39.872Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 37%
+2023-11-06T06:31:39.874Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 41%
+2023-11-06T06:31:39.875Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 44%
+2023-11-06T06:31:39.876Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 47%
+2023-11-06T06:31:39.877Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 50%
+2023-11-06T06:31:39.878Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 53%
+2023-11-06T06:31:39.880Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 57%
+2023-11-06T06:31:39.881Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 60%
+2023-11-06T06:31:39.881Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 62%
+2023-11-06T06:31:39.882Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 65%
+2023-11-06T06:31:39.884Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 69%
+2023-11-06T06:31:39.884Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 71%
+2023-11-06T06:31:39.885Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 75%
+2023-11-06T06:31:39.887Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 78%
+2023-11-06T06:31:39.888Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 82%
+2023-11-06T06:31:39.890Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 85%
+2023-11-06T06:31:39.890Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 88%
+2023-11-06T06:31:39.892Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 91%
+2023-11-06T06:31:39.893Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 95%
+2023-11-06T06:31:39.894Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 98%
+2023-11-06T06:31:39.894Z [Modules] Streaming discord_erlpack@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip: 100%
+2023-11-06T06:31:39.896Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-11-06T06:31:39.896Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip
+2023-11-06T06:31:40.095Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 1%
+2023-11-06T06:31:40.097Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 2%
+2023-11-06T06:31:40.099Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 3%
+2023-11-06T06:31:40.101Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 4%
+2023-11-06T06:31:40.103Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 5%
+2023-11-06T06:31:40.104Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 6%
+2023-11-06T06:31:40.106Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 7%
+2023-11-06T06:31:40.108Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 8%
+2023-11-06T06:31:40.109Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 9%
+2023-11-06T06:31:40.111Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 10%
+2023-11-06T06:31:40.112Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 11%
+2023-11-06T06:31:40.115Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 12%
+2023-11-06T06:31:40.116Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 13%
+2023-11-06T06:31:40.117Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 14%
+2023-11-06T06:31:40.119Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 15%
+2023-11-06T06:31:40.121Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 16%
+2023-11-06T06:31:40.123Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 17%
+2023-11-06T06:31:40.125Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 18%
+2023-11-06T06:31:40.127Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 19%
+2023-11-06T06:31:40.129Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 20%
+2023-11-06T06:31:40.129Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 21%
+2023-11-06T06:31:40.131Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 22%
+2023-11-06T06:31:40.133Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 23%
+2023-11-06T06:31:40.134Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 24%
+2023-11-06T06:31:40.136Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 25%
+2023-11-06T06:31:40.138Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 26%
+2023-11-06T06:31:40.140Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 27%
+2023-11-06T06:31:40.142Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 28%
+2023-11-06T06:31:40.142Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 29%
+2023-11-06T06:31:40.147Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 30%
+2023-11-06T06:31:40.153Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 31%
+2023-11-06T06:31:40.154Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 32%
+2023-11-06T06:31:40.156Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 33%
+2023-11-06T06:31:40.159Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 34%
+2023-11-06T06:31:40.160Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 35%
+2023-11-06T06:31:40.161Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 36%
+2023-11-06T06:31:40.164Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 37%
+2023-11-06T06:31:40.165Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 38%
+2023-11-06T06:31:40.167Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 39%
+2023-11-06T06:31:40.169Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 40%
+2023-11-06T06:31:40.169Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 41%
+2023-11-06T06:31:40.171Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 42%
+2023-11-06T06:31:40.173Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 43%
+2023-11-06T06:31:40.175Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 44%
+2023-11-06T06:31:40.177Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 45%
+2023-11-06T06:31:40.179Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 46%
+2023-11-06T06:31:40.181Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 47%
+2023-11-06T06:31:40.183Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 48%
+2023-11-06T06:31:40.183Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 49%
+2023-11-06T06:31:40.185Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 50%
+2023-11-06T06:31:40.187Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 51%
+2023-11-06T06:31:40.188Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 52%
+2023-11-06T06:31:40.190Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 53%
+2023-11-06T06:31:40.193Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 54%
+2023-11-06T06:31:40.194Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 55%
+2023-11-06T06:31:40.195Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 56%
+2023-11-06T06:31:40.197Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 57%
+2023-11-06T06:31:40.199Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 58%
+2023-11-06T06:31:40.200Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 59%
+2023-11-06T06:31:40.202Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 60%
+2023-11-06T06:31:40.210Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 61%
+2023-11-06T06:31:40.211Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 62%
+2023-11-06T06:31:40.213Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 63%
+2023-11-06T06:31:40.215Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 64%
+2023-11-06T06:31:40.216Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 65%
+2023-11-06T06:31:40.218Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 66%
+2023-11-06T06:31:40.221Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 67%
+2023-11-06T06:31:40.223Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 68%
+2023-11-06T06:31:40.224Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 69%
+2023-11-06T06:31:40.225Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 70%
+2023-11-06T06:31:40.226Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 71%
+2023-11-06T06:31:40.229Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 72%
+2023-11-06T06:31:40.230Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 73%
+2023-11-06T06:31:40.234Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 74%
+2023-11-06T06:31:40.236Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 75%
+2023-11-06T06:31:40.241Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 76%
+2023-11-06T06:31:40.243Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 77%
+2023-11-06T06:31:40.245Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 78%
+2023-11-06T06:31:40.249Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 79%
+2023-11-06T06:31:40.252Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 80%
+2023-11-06T06:31:40.256Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 81%
+2023-11-06T06:31:40.258Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 82%
+2023-11-06T06:31:40.262Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 83%
+2023-11-06T06:31:40.324Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 84%
+2023-11-06T06:31:40.324Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 85%
+2023-11-06T06:31:40.326Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 86%
+2023-11-06T06:31:40.327Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 87%
+2023-11-06T06:31:40.330Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 88%
+2023-11-06T06:31:40.330Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 89%
+2023-11-06T06:31:40.331Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 90%
+2023-11-06T06:31:40.334Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 91%
+2023-11-06T06:31:40.334Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 92%
+2023-11-06T06:31:40.335Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 94%
+2023-11-06T06:31:40.335Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 95%
+2023-11-06T06:31:40.348Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 96%
+2023-11-06T06:31:40.350Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 97%
+2023-11-06T06:31:40.352Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 98%
+2023-11-06T06:31:40.354Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 99%
+2023-11-06T06:31:40.377Z [Modules] Streaming discord_spellcheck@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip: 100%
+2023-11-06T06:31:40.378Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-11-06T06:31:40.378Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip
+2023-11-06T06:31:40.560Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 2%
+2023-11-06T06:31:40.561Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 5%
+2023-11-06T06:31:40.561Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 7%
+2023-11-06T06:31:40.562Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 9%
+2023-11-06T06:31:40.562Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 11%
+2023-11-06T06:31:40.563Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 13%
+2023-11-06T06:31:40.563Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 15%
+2023-11-06T06:31:40.564Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 17%
+2023-11-06T06:31:40.564Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 19%
+2023-11-06T06:31:40.565Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 21%
+2023-11-06T06:31:40.566Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 24%
+2023-11-06T06:31:40.566Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 26%
+2023-11-06T06:31:40.567Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 28%
+2023-11-06T06:31:40.568Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 29%
+2023-11-06T06:31:40.568Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 31%
+2023-11-06T06:31:40.568Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 33%
+2023-11-06T06:31:40.569Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 35%
+2023-11-06T06:31:40.570Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 37%
+2023-11-06T06:31:40.570Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 39%
+2023-11-06T06:31:40.570Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 41%
+2023-11-06T06:31:40.571Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 43%
+2023-11-06T06:31:40.572Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 46%
+2023-11-06T06:31:40.573Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 48%
+2023-11-06T06:31:40.573Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 49%
+2023-11-06T06:31:40.573Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 51%
+2023-11-06T06:31:40.574Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 53%
+2023-11-06T06:31:40.574Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 55%
+2023-11-06T06:31:40.575Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 57%
+2023-11-06T06:31:40.575Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 59%
+2023-11-06T06:31:40.576Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 60%
+2023-11-06T06:31:40.577Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 62%
+2023-11-06T06:31:40.577Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 63%
+2023-11-06T06:31:40.577Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 65%
+2023-11-06T06:31:40.578Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 68%
+2023-11-06T06:31:40.579Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 70%
+2023-11-06T06:31:40.579Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 72%
+2023-11-06T06:31:40.580Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 74%
+2023-11-06T06:31:40.580Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 76%
+2023-11-06T06:31:40.581Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 77%
+2023-11-06T06:31:40.581Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 79%
+2023-11-06T06:31:40.581Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 81%
+2023-11-06T06:31:40.582Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 83%
+2023-11-06T06:31:40.582Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 85%
+2023-11-06T06:31:40.583Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 87%
+2023-11-06T06:31:40.584Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 89%
+2023-11-06T06:31:40.584Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 93%
+2023-11-06T06:31:40.585Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 95%
+2023-11-06T06:31:40.586Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 97%
+2023-11-06T06:31:40.618Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 99%
+2023-11-06T06:31:40.619Z [Modules] Streaming discord_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip: 100%
+2023-11-06T06:31:40.635Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-11-06T06:31:40.636Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip
+2023-11-06T06:31:40.814Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 1%
+2023-11-06T06:31:40.816Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 2%
+2023-11-06T06:31:40.817Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 3%
+2023-11-06T06:31:40.819Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 4%
+2023-11-06T06:31:40.821Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 5%
+2023-11-06T06:31:40.823Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 6%
+2023-11-06T06:31:40.824Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 7%
+2023-11-06T06:31:40.826Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 8%
+2023-11-06T06:31:40.828Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 9%
+2023-11-06T06:31:40.830Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 10%
+2023-11-06T06:31:40.831Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 11%
+2023-11-06T06:31:40.833Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 12%
+2023-11-06T06:31:40.835Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 13%
+2023-11-06T06:31:40.837Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 14%
+2023-11-06T06:31:40.838Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 15%
+2023-11-06T06:31:40.872Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 16%
+2023-11-06T06:31:40.874Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 17%
+2023-11-06T06:31:40.876Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 18%
+2023-11-06T06:31:40.878Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 19%
+2023-11-06T06:31:40.879Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 20%
+2023-11-06T06:31:40.882Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 21%
+2023-11-06T06:31:40.884Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 22%
+2023-11-06T06:31:40.885Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 23%
+2023-11-06T06:31:40.887Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 24%
+2023-11-06T06:31:40.889Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 25%
+2023-11-06T06:31:40.898Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 26%
+2023-11-06T06:31:40.904Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 27%
+2023-11-06T06:31:40.980Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 28%
+2023-11-06T06:31:40.996Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 29%
+2023-11-06T06:31:41.001Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 30%
+2023-11-06T06:31:41.002Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 31%
+2023-11-06T06:31:41.003Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 32%
+2023-11-06T06:31:41.003Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 33%
+2023-11-06T06:31:41.004Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 34%
+2023-11-06T06:31:41.005Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 35%
+2023-11-06T06:31:41.005Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 36%
+2023-11-06T06:31:41.006Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 37%
+2023-11-06T06:31:41.017Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 38%
+2023-11-06T06:31:41.018Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 39%
+2023-11-06T06:31:41.023Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 40%
+2023-11-06T06:31:41.024Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 42%
+2023-11-06T06:31:41.060Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 43%
+2023-11-06T06:31:41.062Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 44%
+2023-11-06T06:31:41.063Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 45%
+2023-11-06T06:31:41.066Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 46%
+2023-11-06T06:31:41.075Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 47%
+2023-11-06T06:31:41.082Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 48%
+2023-11-06T06:31:41.088Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 49%
+2023-11-06T06:31:41.159Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 50%
+2023-11-06T06:31:41.165Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 51%
+2023-11-06T06:31:41.170Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 52%
+2023-11-06T06:31:41.181Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 53%
+2023-11-06T06:31:41.245Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 54%
+2023-11-06T06:31:41.252Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 55%
+2023-11-06T06:31:41.254Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 56%
+2023-11-06T06:31:41.258Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 57%
+2023-11-06T06:31:41.259Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 58%
+2023-11-06T06:31:41.259Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 59%
+2023-11-06T06:31:41.260Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 60%
+2023-11-06T06:31:41.260Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 61%
+2023-11-06T06:31:41.261Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 62%
+2023-11-06T06:31:41.261Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 63%
+2023-11-06T06:31:41.262Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 64%
+2023-11-06T06:31:41.262Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 65%
+2023-11-06T06:31:41.317Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 66%
+2023-11-06T06:31:41.319Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 67%
+2023-11-06T06:31:41.320Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 68%
+2023-11-06T06:31:41.322Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 69%
+2023-11-06T06:31:41.324Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 70%
+2023-11-06T06:31:41.326Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 71%
+2023-11-06T06:31:41.327Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 72%
+2023-11-06T06:31:41.329Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 73%
+2023-11-06T06:31:41.331Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 74%
+2023-11-06T06:31:41.333Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 75%
+2023-11-06T06:31:41.334Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 76%
+2023-11-06T06:31:41.337Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 77%
+2023-11-06T06:31:41.338Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 78%
+2023-11-06T06:31:41.340Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 79%
+2023-11-06T06:31:41.374Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 80%
+2023-11-06T06:31:41.375Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 81%
+2023-11-06T06:31:41.377Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 82%
+2023-11-06T06:31:41.378Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 83%
+2023-11-06T06:31:41.380Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 84%
+2023-11-06T06:31:41.382Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 85%
+2023-11-06T06:31:41.384Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 86%
+2023-11-06T06:31:41.386Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 87%
+2023-11-06T06:31:41.388Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 88%
+2023-11-06T06:31:41.391Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 89%
+2023-11-06T06:31:41.397Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 90%
+2023-11-06T06:31:41.404Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 91%
+2023-11-06T06:31:41.467Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 92%
+2023-11-06T06:31:41.474Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 93%
+2023-11-06T06:31:41.492Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 94%
+2023-11-06T06:31:41.493Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 95%
+2023-11-06T06:31:41.494Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 96%
+2023-11-06T06:31:41.494Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 97%
+2023-11-06T06:31:41.495Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 98%
+2023-11-06T06:31:41.495Z [Modules] Streaming discord_voice@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip: 100%
+2023-11-06T06:31:41.496Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-11-06T06:31:41.497Z [Modules] Installing updates...
+2023-11-06T06:31:41.497Z [Modules] Installing discord_desktop_core@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_desktop_core-1.zip
+2023-11-06T06:31:41.566Z [Modules] Installing discord_erlpack@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_erlpack-1.zip
+2023-11-06T06:31:41.601Z [Modules] Installing discord_spellcheck@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_spellcheck-1.zip
+2023-11-06T06:31:42.067Z [Modules] Installing discord_utils@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_utils-1.zip
+2023-11-06T06:31:42.198Z [Modules] Installing discord_voice@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_voice-1.zip
+2023-11-06T06:31:42.694Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-11-06T06:31:42.694Z [Modules] Checking for host updates.
+2023-11-06T06:31:42.818Z [Modules] Host is up to date.
+2023-11-06T06:31:42.818Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-06T06:31:42.820Z [Modules] No module updates available.
+2023-11-06T06:31:44.454Z [Modules] Starting to install discord_krisp...
+2023-11-06T06:31:44.454Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-11-06T06:31:44.454Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip
+2023-11-06T06:31:44.460Z [Modules] Starting to install discord_game_utils...
+2023-11-06T06:31:44.649Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 1%
+2023-11-06T06:31:44.651Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 2%
+2023-11-06T06:31:44.653Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 3%
+2023-11-06T06:31:44.655Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 4%
+2023-11-06T06:31:44.657Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 5%
+2023-11-06T06:31:44.659Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 6%
+2023-11-06T06:31:44.661Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 7%
+2023-11-06T06:31:44.675Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 8%
+2023-11-06T06:31:44.698Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 9%
+2023-11-06T06:31:44.699Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 10%
+2023-11-06T06:31:44.700Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 11%
+2023-11-06T06:31:44.700Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 12%
+2023-11-06T06:31:44.700Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 13%
+2023-11-06T06:31:44.706Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 14%
+2023-11-06T06:31:44.708Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 15%
+2023-11-06T06:31:44.710Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 16%
+2023-11-06T06:31:44.712Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 17%
+2023-11-06T06:31:44.714Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 18%
+2023-11-06T06:31:44.716Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 19%
+2023-11-06T06:31:44.718Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 20%
+2023-11-06T06:31:44.723Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 21%
+2023-11-06T06:31:44.732Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 22%
+2023-11-06T06:31:44.740Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 23%
+2023-11-06T06:31:44.748Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 24%
+2023-11-06T06:31:44.835Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 25%
+2023-11-06T06:31:44.836Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 26%
+2023-11-06T06:31:44.836Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 27%
+2023-11-06T06:31:44.842Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 28%
+2023-11-06T06:31:44.843Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 29%
+2023-11-06T06:31:44.845Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 30%
+2023-11-06T06:31:44.851Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 31%
+2023-11-06T06:31:44.857Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 32%
+2023-11-06T06:31:44.863Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 33%
+2023-11-06T06:31:44.869Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 34%
+2023-11-06T06:31:44.946Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 35%
+2023-11-06T06:31:44.961Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 36%
+2023-11-06T06:31:44.962Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 37%
+2023-11-06T06:31:44.962Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 38%
+2023-11-06T06:31:44.963Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 39%
+2023-11-06T06:31:44.964Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 40%
+2023-11-06T06:31:44.964Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 41%
+2023-11-06T06:31:44.964Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 42%
+2023-11-06T06:31:44.965Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 43%
+2023-11-06T06:31:44.992Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 44%
+2023-11-06T06:31:44.995Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 45%
+2023-11-06T06:31:45.002Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 46%
+2023-11-06T06:31:45.004Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 47%
+2023-11-06T06:31:45.005Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 48%
+2023-11-06T06:31:45.007Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 49%
+2023-11-06T06:31:45.009Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 50%
+2023-11-06T06:31:45.023Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 51%
+2023-11-06T06:31:45.025Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 52%
+2023-11-06T06:31:45.027Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 53%
+2023-11-06T06:31:45.029Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 54%
+2023-11-06T06:31:45.031Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 55%
+2023-11-06T06:31:45.033Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 56%
+2023-11-06T06:31:45.049Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 57%
+2023-11-06T06:31:45.053Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 58%
+2023-11-06T06:31:45.056Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 59%
+2023-11-06T06:31:45.060Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 60%
+2023-11-06T06:31:45.065Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 61%
+2023-11-06T06:31:45.072Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 62%
+2023-11-06T06:31:45.080Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 63%
+2023-11-06T06:31:45.157Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 64%
+2023-11-06T06:31:45.157Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 65%
+2023-11-06T06:31:45.158Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 66%
+2023-11-06T06:31:45.162Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 67%
+2023-11-06T06:31:45.166Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 68%
+2023-11-06T06:31:45.173Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 69%
+2023-11-06T06:31:45.177Z [Modules] Checking for host updates.
+2023-11-06T06:31:45.178Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 70%
+2023-11-06T06:31:45.180Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 71%
+2023-11-06T06:31:45.181Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 72%
+2023-11-06T06:31:45.181Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 73%
+2023-11-06T06:31:45.182Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 74%
+2023-11-06T06:31:45.197Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 75%
+2023-11-06T06:31:45.200Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 76%
+2023-11-06T06:31:45.200Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 77%
+2023-11-06T06:31:45.228Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 78%
+2023-11-06T06:31:45.233Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 79%
+2023-11-06T06:31:45.238Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 80%
+2023-11-06T06:31:45.240Z [Modules] Starting to install discord_rpc...
+2023-11-06T06:31:45.240Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 81%
+2023-11-06T06:31:45.245Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 82%
+2023-11-06T06:31:45.248Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 83%
+2023-11-06T06:31:45.249Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 84%
+2023-11-06T06:31:45.254Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 85%
+2023-11-06T06:31:45.256Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 86%
+2023-11-06T06:31:45.259Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 87%
+2023-11-06T06:31:45.262Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 88%
+2023-11-06T06:31:45.268Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 89%
+2023-11-06T06:31:45.277Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 90%
+2023-11-06T06:31:45.285Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 91%
+2023-11-06T06:31:45.290Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 92%
+2023-11-06T06:31:45.297Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 93%
+2023-11-06T06:31:45.305Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 94%
+2023-11-06T06:31:45.312Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 95%
+2023-11-06T06:31:45.378Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 96%
+2023-11-06T06:31:45.383Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 97%
+2023-11-06T06:31:45.385Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 98%
+2023-11-06T06:31:45.386Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 99%
+2023-11-06T06:31:45.407Z [Modules] Host is up to date.
+2023-11-06T06:31:45.407Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-06T06:31:45.410Z [Modules] No module updates available.
+2023-11-06T06:31:45.434Z [Modules] Streaming discord_krisp@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip: 100%
+2023-11-06T06:31:45.436Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-11-06T06:31:45.436Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip
+2023-11-06T06:31:45.436Z [Modules] Installing discord_krisp@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_krisp-1.zip
+2023-11-06T06:31:45.631Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 2%
+2023-11-06T06:31:45.632Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 3%
+2023-11-06T06:31:45.632Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 6%
+2023-11-06T06:31:45.633Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 8%
+2023-11-06T06:31:45.633Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 11%
+2023-11-06T06:31:45.633Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 13%
+2023-11-06T06:31:45.634Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 16%
+2023-11-06T06:31:45.634Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 18%
+2023-11-06T06:31:45.636Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 26%
+2023-11-06T06:31:45.637Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 29%
+2023-11-06T06:31:45.637Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 31%
+2023-11-06T06:31:45.639Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 34%
+2023-11-06T06:31:45.639Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 35%
+2023-11-06T06:31:45.640Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 38%
+2023-11-06T06:31:45.640Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 39%
+2023-11-06T06:31:45.640Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 42%
+2023-11-06T06:31:45.641Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 44%
+2023-11-06T06:31:45.641Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 47%
+2023-11-06T06:31:45.642Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 49%
+2023-11-06T06:31:45.642Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 52%
+2023-11-06T06:31:45.643Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 55%
+2023-11-06T06:31:45.643Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 57%
+2023-11-06T06:31:45.644Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 60%
+2023-11-06T06:31:45.645Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 62%
+2023-11-06T06:31:45.645Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 65%
+2023-11-06T06:31:45.646Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 68%
+2023-11-06T06:31:45.647Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 70%
+2023-11-06T06:31:45.647Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 72%
+2023-11-06T06:31:45.647Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 75%
+2023-11-06T06:31:45.648Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 77%
+2023-11-06T06:31:45.648Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 80%
+2023-11-06T06:31:45.649Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 83%
+2023-11-06T06:31:45.650Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 85%
+2023-11-06T06:31:45.650Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 88%
+2023-11-06T06:31:45.651Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 90%
+2023-11-06T06:31:45.651Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 93%
+2023-11-06T06:31:45.652Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 96%
+2023-11-06T06:31:45.652Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 98%
+2023-11-06T06:31:45.652Z [Modules] Streaming discord_game_utils@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip: 100%
+2023-11-06T06:31:45.653Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-11-06T06:31:45.653Z [Modules] Streaming discord_rpc@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_rpc-1.zip
+2023-11-06T06:31:45.753Z [Modules] Installing discord_game_utils@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_game_utils-1.zip
+2023-11-06T06:31:45.799Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-11-06T06:31:45.844Z [Modules] Streaming discord_rpc@1 to /home/spartan/.config/discord/0.0.33/modules/pending/discord_rpc-1.zip: 100%
+2023-11-06T06:31:45.845Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-11-06T06:31:45.845Z [Modules] Installing discord_rpc@1 from /home/spartan/.config/discord/0.0.33/modules/pending/discord_rpc-1.zip
+2023-11-06T06:31:45.856Z [Modules] Finished module installations. [success: 1] [failure: 0]

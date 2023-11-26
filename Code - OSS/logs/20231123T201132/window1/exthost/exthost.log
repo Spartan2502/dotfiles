@@ -1,0 +1,16 @@
+2023-11-23 20:11:33.789 [info] Extension host with pid 17129 started
+2023-11-23 20:11:33.790 [info] Skipping acquiring lock for /home/spartan/.config/Code - OSS/User/workspaceStorage/9b61c61d08f80d510a90e8219a2a5c61.
+2023-11-23 20:11:33.803 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2023-11-23 20:11:33.812 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-23 20:11:33.836 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-23 20:11:33.898 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-23 20:11:33.959 [info] Eager extensions activated
+2023-11-23 20:11:33.980 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-23 20:11:33.981 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-23 20:12:02.690 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-23 20:12:04.095 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+2023-11-23 20:51:15.842 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-11-23 20:51:15.854 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-11-23 20:51:15.903 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-11-23 20:59:08.863 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-23 20:59:08.871 [info] Extension host with pid 17129 exiting with code 0

@@ -1,0 +1,11 @@
+2023-11-23 20:15:10.863 [info] Extension host with pid 24532 started
+2023-11-23 20:15:10.863 [info] Skipping acquiring lock for /home/spartan/.config/Code - OSS/User/workspaceStorage/515623530649d30f60d1de5c1768ab99.
+2023-11-23 20:15:10.892 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-23 20:15:10.932 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-23 20:15:10.955 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-23 20:15:11.023 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-23 20:15:11.087 [info] Eager extensions activated
+2023-11-23 20:15:11.108 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-23 20:15:11.109 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-23 21:02:51.869 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-23 21:02:51.872 [info] Extension host with pid 24532 exiting with code 0

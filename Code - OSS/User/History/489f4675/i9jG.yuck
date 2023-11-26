@@ -1,0 +1,42 @@
+;; Declaración de variables globales
+(defvar open_osd false)
+(defvar volume "50")  ;; Establece un valor predeterminado
+
+;; Widget de OSD de volumen
+(defwidget volume_osd []
+  (revealer :transition "slideup" :reveal open_osd :duration ANIM_DURATION
+    (box :orientation "h" :class "volume-osd" :space-evenly false
+      (volume_scale)
+    )
+  )
+)
+
+;; Widget de escala de volumen
+(defwidget volume_scale []
+  (overlay :hexpand true
+    (scale :min 0 :max 100 :active (not= volume "muted") :value (if (= volume "muted") 0 (string-to-number volume))
+           :onchange "pamixer --set-volume %"
+           :class "volume-scale")
+    (label :class (cond ((= volume "muted") "less")
+                       ((< (string-to-number volume) 5) "less")
+                       ((< (string-to-number volume) 33) "more")
+                       (else "more"))
+           :halign "start"
+           :text (cond ((= volume "muted") "󰸈")
+                       ((< (string-to-number volume) 33) "")
+                       ((< (string-to-number volume) 67) "")
+                       (else "")))
+  )
+)
+
+;; Widget de control de volumen central
+(defwidget volume_control_center []
+  (box :orientation "h" :class "volume-control-center" :space-evenly false
+    (volume_scale)
+    (button :class (concat "volume-mute " (if (= volume "muted") "active" ""))
+            :onclick "pamixer -t" "󰝟")
+    (button :class "volume-arrow"
+            :onclick "scripts/toggle_control_center.sh close && pavucontrol &"
+            "󰅂")
+  )
+)
